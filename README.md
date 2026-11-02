@@ -2,6 +2,10 @@
 
 I'm an Accounting student at the University of Lagos who builds software, websites and data systems. I work solo, and I like making things people can actually use.
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</p>
+
 ### What I'm building
 
 - **[ScholarMate](https://scholarmate-landingpage.netlify.app/)** (in development): a mobile study app for Nigerian university students. ACE, the built-in AI tutor, answers questions about your material and helps with quizzes, flashcards, a study planner and CGPA calculations.

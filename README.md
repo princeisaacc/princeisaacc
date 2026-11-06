@@ -1,6 +1,6 @@
 ### Hi, I'm Prince Isaac 👋
 
-I'm an Accounting student at the University of Lagos who builds software, websites and data systems. I work solo, and I like making things people can actually use.
+I'm an undergraduate at the University of Lagos who builds software, websites and data systems. I work solo, and I like making things people can actually use.
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
